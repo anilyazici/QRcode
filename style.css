@@ -1,0 +1,46 @@
+.body{
+  
+}
+
+.menu {
+  width: 100%;
+  background-color: black;
+  max-width: 350px;
+  padding: 10px;
+  margin: auto;
+}
+
+.menu .logo img {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.soz p {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 40px;
+}
+
+.resim img {
+  width: 100%;
+}
+
+.urun {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-weight: 500;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 18px;
+  padding-bottom: 10px;
+  border-bottom: 2px dashed white;
+  margin-bottom: 10px;
+}
+
+.fiyat {
+  float: right;
+  font-size: 24px;
+}
